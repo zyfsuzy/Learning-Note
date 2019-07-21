@@ -1,6 +1,6 @@
 # Redis
 
-- [后段开发者都应该懂的 redis 基础](https://juejin.im/post/5d078cd6f265da1b8466e62c)  
+- [后端开发者都应该懂的 redis 基础](https://juejin.im/post/5d078cd6f265da1b8466e62c)  
 - [Redis持久化RDB和AOF优缺点是什么？](https://juejin.im/post/5ab5f08e518825557f00dfac)
 - [这可能是最中肯的Redis规范了](https://juejin.im/post/5d03030ff265da1b957052e3)
 - [理解Redis的内存回收机制](https://juejin.im/post/5d107ad851882576df7fba9e)
