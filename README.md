@@ -1,4 +1,4 @@
 # Learning-Note
-the project is  my learning notes
+Work and daily study notes
 
 
