@@ -1,7 +1,6 @@
 # Learning-Note
 the project is  my learning notes
-Java 基础进阶汇总
-===
+
 Java 虚拟机
 ---
 - [深入理解JVM(一)——JVM内存模型](https://blog.csdn.net/u010425776/article/details/51170118)  
