@@ -1,6 +1,6 @@
 # Java Learning 
 
-Java 虚拟机
+> Java 虚拟机
 ---
 - [深入理解JVM(一)——JVM内存模型](https://blog.csdn.net/u010425776/article/details/51170118)  
 - [深入理解JVM(二)——揭开HotSpot对象创建的奥秘](https://blog.csdn.net/u010425776/article/details/51190801)  
@@ -13,7 +13,7 @@ Java 虚拟机
 - [深入理解JVM(九)——类加载的过程](https://blog.csdn.net/u010425776/article/details/51254858)  
 - [深入理解JVM(十)——类加载器](https://blog.csdn.net/u010425776/article/details/58145910)
 
-Java 内存模型
+> Java 内存模型
 ----
 - [深入理解 Java 内存模型（一）——基础](http://cmsblogs.com/?p=3992)
 - [深入理解 Java内存模型（二）——重排序](http://cmsblogs.com/?p=3994)
@@ -25,7 +25,7 @@ Java 内存模型
 
 
 
-Java 集合框架
+> Java 集合框架
 ----
 - [Java 集合系列01之 总体框架](http://www.cnblogs.com/skywang12345/p/3308498.html)  
 - [Java 集合系列02之 Collection架构](http://www.cnblogs.com/skywang12345/p/3308513.html)  
@@ -57,7 +57,7 @@ Java 集合框架
 
 
 
-java I/O
+> Java I/O
 ------
 ![按操作方式分类结构图：](https://user-gold-cdn.xitu.io/2018/5/16/16367d4fd1ce1b46?w=720&h=1080&f=jpeg&s=69522)
 
@@ -90,7 +90,7 @@ java I/O
 
 
 
-Java 多线程
+> Java 多线程
 -----
 - [Java多线程系列目录(共43篇)](http://www.cnblogs.com/skywang12345/p/3479024.html)
 - [Java多线程系列--“基础篇”01之 基本概念](http://www.cnblogs.com/skywang12345/p/3479024.html)
@@ -112,7 +112,7 @@ Java 多线程
 
 
 
-Java 其他
+> Java 其他
 ----
 - [lambda 表达式学习](https://exception.site/java8/java8-new-features)
 - [深入浅出 为何需要lambda表达式](http://blog.oneapm.com/apm-tech/226.html)
@@ -120,7 +120,7 @@ Java 其他
 - [java 泛型详解](https://www.fangzhipeng.com/javainterview/2019/02/24/paradigm.html)
 
 
-Spring Boot 教程
+> Spring Boot 教程
 -----
 - [Spring Boot 配置文件解析](http://tengj.top/2017/02/28/springboot2/)
 - [Spring Boot 启动原理解析](http://tengj.top/2017/03/09/springboot3/)
