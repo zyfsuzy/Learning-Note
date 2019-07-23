@@ -118,6 +118,7 @@
 - [深入浅出 为何需要lambda表达式](http://blog.oneapm.com/apm-tech/226.html)
 - [深入理解 Java 异常](https://blog.csdn.net/hguisu/article/details/6155636)
 - [java 泛型详解](https://www.fangzhipeng.com/javainterview/2019/02/24/paradigm.html)
+- [java 泛型最佳详解](https://www.fangzhipeng.com/javainterview/2019/02/24/paradigm.html)
 
 
 > Spring Boot 教程
