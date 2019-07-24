@@ -129,6 +129,7 @@
 - [Spring Boot 启动原理解析](http://tengj.top/2017/03/09/springboot3/)
 - [常用注解](https://www.cnblogs.com/jianliang-Wu/p/5652629.html)
 - [外行人都能看懂的SpringCloud，错过了血亏！](https://juejin.im/post/5b83466b6fb9a019b421cecc)
+- [给你一份Spring Boot知识清单](https://www.jianshu.com/p/83693d3d0a65)
 
 
 
