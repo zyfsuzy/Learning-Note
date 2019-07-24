@@ -108,6 +108,7 @@
 - [Java多线程系列--“JUC原子类”02之 AtomicLong原子类](https://www.cnblogs.com/skywang12345/p/3514593.html)
 - [Java多线程系列--“JUC原子类”03之 AtomicLongArray原子类](https://www.cnblogs.com/skywang12345/p/3514604.html)
 - [Java多线程系列--“JUC原子类”04之 AtomicReference原子类](https://www.cnblogs.com/skywang12345/p/3514623.html)
+- [Java多线程系列--“JUC原子类”05之 AtomicLongFieldUpdater原子类](https://www.cnblogs.com/skywang12345/p/3514635.html)
 
 
 
