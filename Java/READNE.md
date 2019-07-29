@@ -112,6 +112,7 @@
 - [Java多线程系列--“JUC锁”01之 框架](https://www.cnblogs.com/skywang12345/p/3496098.html) 
 - [Java多线程系列--“JUC锁”02之 互斥锁ReentrantLock](https://www.cnblogs.com/skywang12345/p/3496101.html)
 - [Java多线程系列--“JUC锁”03之 公平锁(一)](https://www.cnblogs.com/skywang12345/p/3496147.html)
+- [Java多线程系列--“JUC锁”04之 公平锁(二)](https://www.cnblogs.com/skywang12345/p/3496609.html)
 
 
 
