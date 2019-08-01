@@ -114,6 +114,7 @@
 - [Java多线程系列--“JUC锁”03之 公平锁(一)](https://www.cnblogs.com/skywang12345/p/3496147.html)
 - [Java多线程系列--“JUC锁”04之 公平锁(二)](https://www.cnblogs.com/skywang12345/p/3496609.html)
 - [Java多线程系列--“JUC锁”05之 非公平锁](https://www.cnblogs.com/skywang12345/p/3496651.html)
+- [Java多线程系列--“JUC锁”06之 Condition条件](https://www.cnblogs.com/skywang12345/p/3496716.html)
 
 
 
