@@ -51,6 +51,7 @@
 - [Java 8 容器源码-LinkedHashMap](https://juejin.im/post/5997ff966fb9a024851009b7)(https://juejin.im/post/5ace2bde6fb9a028e25deca8)
 - [HashMap? ConcurrentHashMap? 相信看完这篇没人能难住你！](https://juejin.im/post/5b551e8df265da0f84562403)
 - [Java hashCode() 和 equals()的若干问题解答](https://www.cnblogs.com/skywang12345/p/3324958.html#4253070)
+- [彻底搞清楚 hashcode 和 equals 关系](https://www.cnblogs.com/JavaArchitect/p/10474448.html)
 
 
 
