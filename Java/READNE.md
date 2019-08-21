@@ -133,7 +133,8 @@
 - [深入理解 Java 异常](https://blog.csdn.net/hguisu/article/details/6155636)
 - [java 泛型详解](https://www.fangzhipeng.com/javainterview/2019/02/24/paradigm.html)
 - [java 泛型最佳详解](https://www.fangzhipeng.com/javainterview/2019/02/24/paradigm.html)
-- [类加载器](https://juejin.im/post/57c66f386be3ff005851de05) 
+- [类加载器](https://juejin.im/post/57c66f386be3ff005851de05)
+- [既然synchronized是"万能"的，为什么还需要volatile呢？](https://juejin.im/post/5d5c9fbce51d4561cd246641)
 
 
 
