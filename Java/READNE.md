@@ -120,7 +120,8 @@
 - [Java多线程系列--“JUC锁”08之 共享锁和ReentrantReadWriteLock](https://www.cnblogs.com/skywang12345/p/3505809.html)
 - [Java多线程系列--“JUC集合”01之 框架](https://www.cnblogs.com/skywang12345/p/3498454.html)
 - [Java多线程系列--“JUC集合”02之 CopyOnWriteArrayList](https://www.cnblogs.com/skywang12345/p/3498483.html)
-- [cow 思想的应用在 copyonwirtelist 集合类](https://juejin.im/post/5aeeb55f5188256715478c21)
+- [cow 思想应用在 copyonwirtelist 集合类](https://juejin.im/post/5aeeb55f5188256715478c21)
+- [Java多线程系列--“JUC集合”03之 CopyOnWriteArraySet](https://www.cnblogs.com/skywang12345/p/3498497.html)
 
 
 
