@@ -124,6 +124,7 @@
 - [Java多线程系列--“JUC集合”03之 CopyOnWriteArraySet](https://www.cnblogs.com/skywang12345/p/3498497.html)
 - [Java多线程系列--“JUC集合”04之 ConcurrentHashMap(jdk1.7)](https://www.cnblogs.com/skywang12345/p/3498537.html)
 - [Java多线程系列--“JUC集合”05之 ConcurrentSkipListMap](https://www.cnblogs.com/skywang12345/p/3498556.html#commentform)
+- [Java多线程系列--“JUC集合”07之 ArrayBlockingQueue](https://www.cnblogs.com/skywang12345/p/3498652.html)
 
 
 
