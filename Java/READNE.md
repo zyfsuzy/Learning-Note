@@ -126,6 +126,7 @@
 - [Java多线程系列--“JUC集合”05之 ConcurrentSkipListMap](https://www.cnblogs.com/skywang12345/p/3498556.html#commentform)
 - [Java多线程系列--“JUC集合”07之 ArrayBlockingQueue](https://www.cnblogs.com/skywang12345/p/3498652.html)
 - [Java多线程系列--“JUC集合”08之 LinkedBlockingQueue](https://www.cnblogs.com/skywang12345/p/3503458.html)
+- [Java多线程系列--“JUC集合”09之 LinkedBlockingDeque](https://www.cnblogs.com/skywang12345/p/3503480.html) 
 
 
 
