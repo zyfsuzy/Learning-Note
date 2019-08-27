@@ -7,3 +7,4 @@
 - [10分钟彻底理解Redis的持久化机制：RDB和AOF](https://juejin.im/post/5d09a9ff51882577eb133aa9)
 - [分布式锁实现汇总](https://juejin.im/post/5a20cd8bf265da43163cdd9a)
 - [基于 Redis 的分布式锁](https://juejin.im/post/5ac18d7e5188255cb07d4429)
+- [Redis 实现分布式锁, 不单单是简单的实现，介绍了 redlock 算法实现过程及原理](http://cmsblogs.com/?p=3266&esngxk=mbfr5) 
