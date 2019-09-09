@@ -130,6 +130,7 @@
 - [Java多线程系列--“JUC集合”10之 ConcurrentLinkedQueue 无界线的高并发链表容器](https://www.cnblogs.com/skywang12345/p/3498995.html)
 - [Java多线程系列--“JUC线程池”01之 线程池架构](https://www.cnblogs.com/skywang12345/p/3509903.html)
 - [Java多线程系列--“JUC线程池”02之 线程池原理(一)](https://www.cnblogs.com/skywang12345/p/3509941.html)
+- [ava多线程系列--“JUC线程池”04之 线程池原理(三)](https://www.cnblogs.com/skywang12345/p/3509960.html) 
 
 
 
