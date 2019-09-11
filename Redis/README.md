@@ -11,3 +11,4 @@
 - [关于redis的主从、哨兵、集群](https://blog.csdn.net/c295477887/article/details/52487621) 
 - [分布式缓存Redis之Pipeline（管道）](https://blog.csdn.net/u011489043/article/details/78769428)
 - [Redis 数据淘汰机制](http://cmsblogs.com/?p=4434)
+- [Redis 基础、高级特性与性能调优 | 高薪必备](https://www.jianshu.com/p/2f14bc570563)
