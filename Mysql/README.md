@@ -1,0 +1,1 @@
+[雪上加霜的 MySQL 浮点类型 ( float 和 double )](http://cmsblogs.com/?p=5505)
