@@ -1,1 +1,2 @@
 - [雪上加霜的 MySQL 浮点类型 ( float 和 double )](http://cmsblogs.com/?p=5505)
+- [mysql 使用规范](https://www.ymq.io/2019/07/25/yz/ms25/)
