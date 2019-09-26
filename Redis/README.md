@@ -12,3 +12,7 @@
 - [分布式缓存Redis之Pipeline（管道）](https://blog.csdn.net/u011489043/article/details/78769428)
 - [Redis 数据淘汰机制](http://cmsblogs.com/?p=4434)
 - [Redis 基础、高级特性与性能调优 | 高薪必备](https://www.jianshu.com/p/2f14bc570563)
+
+
+# Redis系列
+- [Redis-基本的数据结构](https://juejin.im/book/5afc2e5f6fb9a07a9b362527/section/5afc2e5f51882542714ff291)
