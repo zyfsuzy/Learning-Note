@@ -1,5 +1,5 @@
 # Redis
-![redis 图谱](https://user-gold-cdn.xitu.io/2019/5/5/16a86030957ba02e?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
+![redis 图谱](https://github.com/zyfsuzy/Learning-Note/blob/master/Images/redis.png)
 
 - [后端开发者都应该懂的 redis 基础](https://juejin.im/post/5d078cd6f265da1b8466e62c)  
 - [Redis持久化RDB和AOF优缺点是什么？](https://juejin.im/post/5ab5f08e518825557f00dfac)
