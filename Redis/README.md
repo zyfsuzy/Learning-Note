@@ -18,3 +18,4 @@
 # Redis系列
 - [Redis-基本的数据结构](https://juejin.im/book/5afc2e5f6fb9a07a9b362527/section/5afc2e5f51882542714ff291)
 - [Redis-分布式锁的实现](https://juejin.im/book/5afc2e5f6fb9a07a9b362527/section/5afc35fb6fb9a07abf72b477)
+- [Redis-延时队列](https://juejin.im/book/5afc2e5f6fb9a07a9b362527/section/5afc3643518825672034404b)
