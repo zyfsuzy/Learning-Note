@@ -21,3 +21,4 @@
 - [Redis-延时队列](https://juejin.im/book/5afc2e5f6fb9a07a9b362527/section/5afc3643518825672034404b)
 - [Redis-HyperLog 数据结构](https://juejin.im/book/5afc2e5f6fb9a07a9b362527/section/5b336548e51d4558a426ff56)
 - [Redis-布隆过滤器介绍](https://juejin.im/book/5afc2e5f6fb9a07a9b362527/section/5b33657cf265da597b0f99ab)
+- [Redis-简单限流-控制用户行为次数](https://juejin.im/book/5afc2e5f6fb9a07a9b362527/section/5b4477416fb9a04fa259c496)
