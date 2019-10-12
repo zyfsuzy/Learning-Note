@@ -23,3 +23,4 @@
 - [Redis-布隆过滤器介绍](https://juejin.im/book/5afc2e5f6fb9a07a9b362527/section/5b33657cf265da597b0f99ab)
 - [Redis-简单限流-控制用户行为次数](https://juejin.im/book/5afc2e5f6fb9a07a9b362527/section/5b4477416fb9a04fa259c496)
 - [Redis-redis-cell 漏桶算法进行限流](https://juejin.im/book/5afc2e5f6fb9a07a9b362527/section/5b44aaf75188251a9f248c4c)
+- [Redis-geoHash实现附近功能](https://blog.csdn.net/u011497262/article/details/81210634)
