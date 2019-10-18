@@ -27,3 +27,4 @@
 - [Redis-scan 命令查询 key](https://juejin.im/book/5afc2e5f6fb9a07a9b362527/section/5b3d97d9e51d4519634f8512)
 - [Redis-redis 解决高并发入门](https://juejin.im/book/5afc2e5f6fb9a07a9b362527/section/5afc3625f265da0b9c10d2a7)
 - [Redis-持久化入门](https://juejin.im/book/5afc2e5f6fb9a07a9b362527/section/5afc364c6fb9a07aaf3567c8)
+- [Redis-Redis 事务](https://juejin.im/book/5afc2e5f6fb9a07a9b362527/section/5afc3747f265da0b71567686)
