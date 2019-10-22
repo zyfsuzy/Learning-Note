@@ -29,3 +29,4 @@
 - [Redis-持久化入门](https://juejin.im/book/5afc2e5f6fb9a07a9b362527/section/5afc364c6fb9a07aaf3567c8)
 - [Redis-Redis 事务](https://juejin.im/book/5afc2e5f6fb9a07a9b362527/section/5afc3747f265da0b71567686)
 - [Redis-Redis PubSub](https://juejin.im/book/5afc2e5f6fb9a07a9b362527/section/5afc37fe518825426a1fe112)
+- [Redis-zipList](https://juejin.im/book/5afc2e5f6fb9a07a9b362527/section/5afc3763518825428630b016)
