@@ -32,3 +32,4 @@
 - [Redis-zipList](https://juejin.im/book/5afc2e5f6fb9a07a9b362527/section/5afc3763518825428630b016)
 - [Redis-主从同步](https://juejin.im/book/5afc2e5f6fb9a07a9b362527/section/5afc375b6fb9a07aca7a5ae8)
 - [Redis-哨兵模式](https://juejin.im/post/5b7d226a6fb9a01a1e01ff64)
+- [REdis-redis 如何设计过期 key 的删除策略](https://juejin.im/book/5afc2e5f6fb9a07a9b362527/section/5b4c42405188251b3950d251)
