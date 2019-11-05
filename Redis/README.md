@@ -36,3 +36,4 @@
 - [Redis-在物理分配内存达到上限时如何空闲出空间](https://blog.csdn.net/WhereIsHeroFrom/article/details/86501571)
 - [Redis-字符串存储](https://juejin.im/book/5afc2e5f6fb9a07a9b362527/section/5b5af9d96fb9a04f83465ada)
 - [Redis- 使用ziplist 优化内存](https://juejin.im/book/5afc2e5f6fb9a07a9b362527/section/5b5c95226fb9a04fa42fc3f6)
+- [Redis- zset->skiplist 数据接口实现](http://zhangtielei.com/posts/blog-redis-skiplist.html)
