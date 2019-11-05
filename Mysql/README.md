@@ -5,3 +5,4 @@ MySql 系列
 ====
 - [字符集概念](https://juejin.im/book/5bffcbc9f265da614b11b731/section/5bffd9c651882520980229a0)
 - [InnoDB数据页结构](https://juejin.im/book/5bffcbc9f265da614b11b731/section/5bffdb30518825773a2ed38c#heading-6)
+- [B+树索引](https://juejin.im/book/5bffcbc9f265da614b11b731/section/5bffdb7c6fb9a049cd53ea84)
