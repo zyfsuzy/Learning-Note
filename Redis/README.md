@@ -38,6 +38,6 @@
 - [Redis- 使用ziplist 优化内存](https://juejin.im/book/5afc2e5f6fb9a07a9b362527/section/5b5c95226fb9a04fa42fc3f6)
 - [Redis- zset->skiplist 数据接口实现](http://zhangtielei.com/posts/blog-redis-skiplist.html)
 
-#Redis 数据结构详解
+# Redis 数据结构详解
 - [ziplist](http://zhangtielei.com/posts/blog-redis-ziplist.html)
 
