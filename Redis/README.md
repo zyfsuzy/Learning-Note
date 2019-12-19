@@ -40,4 +40,4 @@
 
 # Redis 数据结构详解
 - [ziplist](http://zhangtielei.com/posts/blog-redis-ziplist.html)
-
+- [dict](http://zhangtielei.com/posts/blog-redis-dict.html)
