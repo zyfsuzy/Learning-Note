@@ -146,6 +146,7 @@
 - [java 泛型最佳详解](https://www.fangzhipeng.com/javainterview/2019/02/24/paradigm.html)
 - [类加载器](https://juejin.im/post/57c66f386be3ff005851de05)
 - [既然synchronized是"万能"的，为什么还需要volatile呢？](https://juejin.im/post/5d5c9fbce51d4561cd246641)
+- [深入理解枚举类](https://blog.csdn.net/javazejian/article/details/71333103) 
 
 
 
