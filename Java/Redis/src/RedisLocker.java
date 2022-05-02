@@ -1,22 +1,3 @@
-package com.haodf.communal.cache.redis.locker;
-
-import org.apache.commons.lang3.StringUtils;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Component;
-
-import java.util.Map;
-import java.util.concurrent.ConcurrentHashMap;
-
-/**
- *
- * redis锁
- *
- * @author vincent
- * @version 1.0
- * @since 2019-04-03 16:22:46
- */
 @Component
 public final class RedisLocker implements Locker {
 
