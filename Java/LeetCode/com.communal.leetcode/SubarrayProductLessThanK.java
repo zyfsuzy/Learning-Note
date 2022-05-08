@@ -1,6 +1,12 @@
 package com.communal.leetcode;
 
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
+import java.util.Map;
+import java.util.function.Function;
+import java.util.stream.Collectors;
+
 /*
 713. 乘积小于 K 的子数组
 给你一个整数数组 nums 和一个整数 k ，请你返回子数组内所有元素的乘积严格小于 k 的连续子数组的数目
@@ -27,6 +33,19 @@ public class SubarrayProductLessThanK {
             }
 
             return count;
+        }
+
+        public List<Integer> findDuplicates(int[] nums) {
+            List<Integer> list = new ArrayList<>();
+            Map<Integer, Long> countMap = Arrays.stream(nums).boxed()
+                    .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()));
+            countMap.forEach((k, v) -> {
+                if (v > 2) {
+                    list.add(k);
+                }
+
+            });
+            return list;
         }
     }
 
